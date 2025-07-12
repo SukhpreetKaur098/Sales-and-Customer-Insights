@@ -1,0 +1,21 @@
+﻿Date,Region,Product_Category,Product_Name,Sales_Rep,Customer_Type,Units_Sold,Revenue,Cost,Profit_Margin
+15-01-2024,North,Electronics,Laptop Pro,John Smith,Corporate,25,62500,40000,0.36
+20-01-2024,South,Electronics,Smartphone X,Sarah Johnson,Individual,45,31500,22500,0.29
+25-01-2024,East,Furniture,Office Chair,Mike Davis,Corporate,12,4800,3000,0.38
+01-02-2024,West,Electronics,Tablet Mini,Lisa Brown,Individual,30,15000,9000,0.4
+05-02-2024,North,Furniture,Desk Standard,John Smith,Corporate,8,3200,2000,0.38
+10-02-2024,South,Clothing,Business Suit,Sarah Johnson,Individual,20,4000,2200,0.45
+15-02-2024,East,Electronics,Headphones Pro,Mike Davis,Individual,60,12000,7200,0.4
+20-02-2024,West,Furniture,Conference Table,Lisa Brown,Corporate,3,4500,2700,0.4
+01-03-2024,North,Clothing,Casual Shirt,John Smith,Individual,35,1750,1050,0.4
+05-03-2024,South,Electronics,Smart Watch,Sarah Johnson,Individual,28,8400,5040,0.4
+10-03-2024,East,Furniture,Bookshelf,Mike Davis,Corporate,15,3750,2250,0.4
+15-03-2024,West,Clothing,Formal Pants,Lisa Brown,Individual,40,3200,1920,0.4
+20-03-2024,North,Electronics,Monitor 27inch,John Smith,Corporate,18,9000,5400,0.4
+25-03-2024,South,Furniture,Storage Cabinet,Sarah Johnson,Corporate,6,1800,1080,0.4
+01-04-2024,East,Electronics,Gaming Mouse,Mike Davis,Individual,50,2500,1500,0.4
+05-04-2024,West,Clothing,Winter Jacket,Lisa Brown,Individual,25,6250,3750,0.4
+10-04-2024,North,Furniture,Ergonomic Chair,John Smith,Corporate,10,5000,3000,0.4
+15-04-2024,South,Electronics,Bluetooth Speaker,Sarah Johnson,Individual,35,3500,2100,0.4
+20-04-2024,East,Clothing,Summer Dress,Mike Davis,Individual,30,2400,1440,0.4
+25-04-2024,West,Electronics,Wireless Charger,Lisa Brown,Individual,45,2250,1350,0.4

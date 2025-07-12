@@ -1,0 +1,16 @@
+﻿Customer_ID,Customer_Name,Age,Gender,Region,Customer_Type,Registration_Date,Total_Orders,Avg_Order_Value,Satisfaction_Score,Loyalty_Status
+C001,ABC Corp,35,Corporate,North,Corporate,15-01-2023,25,2500,4.8,Gold
+C002,John Doe,28,Male,South,Individual,20-02-2023,12,350,4.2,Silver
+C003,Jane Smith,34,Female,East,Individual,10-03-2023,18,275,4.5,Silver
+C004,Tech Solutions,42,Corporate,West,Corporate,25-01-2023,30,3200,4.9,Platinum
+C005,Mary Johnson,29,Female,North,Individual,05-04-2023,8,180,3.8,Bronze
+C006,Global Industries,38,Corporate,South,Corporate,15-02-2023,22,2800,4.7,Gold
+C007,David Wilson,31,Male,East,Individual,20-03-2023,15,420,4.3,Silver
+C008,Sarah Brown,26,Female,West,Individual,12-04-2023,6,150,3.5,Bronze
+C009,Enterprise LLC,45,Corporate,North,Corporate,30-01-2023,35,4100,4.9,Platinum
+C010,Robert Davis,33,Male,South,Individual,28-02-2023,14,380,4.1,Silver
+C011,Lisa Anderson,37,Female,East,Individual,15-03-2023,20,290,4.4,Silver
+C012,Innovation Inc,40,Corporate,West,Corporate,10-02-2023,28,3500,4.8,Gold
+C013,Michael Thompson,30,Male,North,Individual,01-04-2023,10,220,3.9,Bronze
+C014,Emma Wilson,32,Female,South,Individual,25-03-2023,16,310,4.2,Silver
+C015,Future Systems,41,Corporate,East,Corporate,20-01-2023,26,2900,4.6,Gold
